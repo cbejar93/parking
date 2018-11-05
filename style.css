@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.jumbotron{
+    background-color: blueviolet;
+    color: white;
+}
+
+.navbar {
+    background-color: #DCDCDC;
+}
+
+.nav-link {
+    color: blueviolet
+}
+
+/* .card {
+     background:linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ); */
+/* } */
+
+h2 {
+    font-size: 5rem;
+}
+
+#background {
+    -webkit-filter: blur(3px); 
+    -moz-filter: blur(3px); 
+    -o-filter: blur(3px);
+    -ms-filter: blur(3px); 
+    filter: blur(3px); 
+}
