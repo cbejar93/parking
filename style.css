@@ -34,3 +34,18 @@ h2 {
     -ms-filter: blur(3px); 
     filter: blur(3px); 
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a :hover{
+    color: white;
+}
+
+.btn {
+    background-color: blueviolet;
+    color: white;
+
+}
